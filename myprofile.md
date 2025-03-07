@@ -1,5 +1,5 @@
 resource "spaceship_crew_member" "alex_f" {
   name        = "Alex F"
-  experience  = "2 years"
+  experience  = "3 years"
   specialty   = "Space Medicine"
 }
